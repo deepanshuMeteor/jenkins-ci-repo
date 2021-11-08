@@ -1,1 +1,1 @@
-echo "Hola from the other side- run.sh"
+echo "Hola from the other side"
