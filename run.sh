@@ -1,1 +1,1 @@
-echo "Hola from the other side"
+echo "Hello from the Jenkins job named: ${JOB_NAME}"
